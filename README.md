@@ -3,6 +3,7 @@
 ### Performed Hypothesis Testing on a data set to answer 3 questions. 
 - These included a 2 Sample T-Test, ANOVA, and Chi-Squared.
 - As with all hypothesis testing, I assessed the assumptions for each test (normality, equal variance, etc.) and chose the appropriate test.
+ - For example: my data groups did not meet the assumption of equal variance for my ANOVA test, so I employed the "Kruskal-Wallis" test.
 - Visuals are provided for each test, and given both pre and post elimination of outliers.
   - Below is a visual example from our 2 Sample T-Test comparing insurance charges between Smoker and Non-Smokers, with useful statistical information
  
